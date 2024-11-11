@@ -9,4 +9,4 @@ streamlit==1.31.0
 geopandas==1.0.1
 shapely==2.0.1
 ezdxf==0.17.2
-
+geos>=3.8.0
